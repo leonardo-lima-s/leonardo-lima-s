@@ -1,6 +1,5 @@
 ## Olá (Hello), I'm Leonardo Lima! Bem vindo(a)! (Welcome!)
 
-<br>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardo-lima-s&show_icons=true&theme=dracula"/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-lima-s&layout=donut&langs_count=5&theme=dracula"/>
 
